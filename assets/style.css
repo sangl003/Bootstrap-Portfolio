@@ -1,0 +1,150 @@
+body{
+    margin-top: 10px;
+    background: #fcf7f7;
+}
+
+.name{
+    padding: 10px;
+    width: 250px;
+}
+
+h2 { 
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #4aaaa5;
+}
+
+.Content{
+    background:#fff;
+    margin: 10px;
+}
+
+img{
+    height: 250px;
+    width :200px;
+    float: left;
+    padding: 10px;;
+}
+#introduction{
+    
+    padding: 10px;
+    margin: 10px;
+    align-content: center;
+    color: #333;
+    
+    
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+} 
+
+.title{
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 12px;
+   
+}
+
+
+p{
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 19px;
+   
+}
+
+
+
+.navbar-default .navbar-brand {
+    align-content: center;
+    width: 250px;
+    background: #4aaaa5;
+    color: #fff;
+    font-size: 18px;
+}
+
+.navbar {
+    
+    margin-bottom: 20px;  
+    background: #ffffff;
+    
+  }
+
+  #name1{
+    padding: 10px;;
+    margin: 20px;
+    width: 50%;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+  }
+
+  #mail{
+    padding: 10px;;
+    margin: 20px;
+    width: 50%;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+  }
+
+  textarea {
+    width: 80%;
+    height: 150px;
+    padding: 10px;;
+    margin: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 14px;
+    resize: none;
+
+    
+}
+
+.button1{
+    margin:0px 0px 0px 10px;
+    align-items: center;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #4aaaa5;
+    resize: none;
+    align-content: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 14px;
+    color: #f8f8f8;
+
+}
+
+.footer1{
+    padding: 10px;;
+    font-weight: 10;
+    align-content: center;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background: #333;
+}
+
+#footer2{
+    padding: 10px 0px 0px 0px;
+    background: #4aaaa5;
+
+}
