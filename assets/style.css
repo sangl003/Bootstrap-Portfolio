@@ -18,11 +18,10 @@ h2 {
     margin: 10px;
 }
 
-img{
-    height: 250px;
-    width :200px;
-    float: left;
-    padding: 10px;;
+.item{
+    align-items: center;
+    height: 500px;
+   
 }
 #introduction{
     
